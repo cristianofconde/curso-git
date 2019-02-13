@@ -1,0 +1,7 @@
+G:\Faculdade\UDEMY\C# curso\projeto-teste2\projeto-teste2\bin\Debug\projeto-teste2.exe.config
+G:\Faculdade\UDEMY\C# curso\projeto-teste2\projeto-teste2\bin\Debug\projeto-teste2.exe
+G:\Faculdade\UDEMY\C# curso\projeto-teste2\projeto-teste2\bin\Debug\projeto-teste2.pdb
+G:\Faculdade\UDEMY\C# curso\projeto-teste2\projeto-teste2\obj\Debug\projeto-teste2.csprojAssemblyReference.cache
+G:\Faculdade\UDEMY\C# curso\projeto-teste2\projeto-teste2\obj\Debug\projeto-teste2.csproj.CoreCompileInputs.cache
+G:\Faculdade\UDEMY\C# curso\projeto-teste2\projeto-teste2\obj\Debug\projeto-teste2.exe
+G:\Faculdade\UDEMY\C# curso\projeto-teste2\projeto-teste2\obj\Debug\projeto-teste2.pdb
